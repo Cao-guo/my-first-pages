@@ -1,6 +1,3 @@
-# my-first-pages
- repo
-
 ## Haoguo Cheng
 Hello guys, this is Haoguo
 
